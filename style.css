@@ -1,0 +1,16 @@
+.home_background {
+  width: 100%; 
+  height: 100%;
+  display: block;
+  position: relative;
+  background: url(images/unstoppable.jpg) right no-repeat;
+}
+
+a {
+  color: white;
+  font-size: 20px;
+}
+
+body {
+  background: black;
+}
